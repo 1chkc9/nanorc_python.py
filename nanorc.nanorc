@@ -44,14 +44,4 @@ set keycolor italic,white
 set functioncolor bold,latte,black
 set numbercolor bold,latte,black
 
-#set errorcolor brightwhite,red
-#set selectedcolor black,white
-#set stripecolor black,white
-#set statuscolor brightyellow,black
-
-#set keycolor white
-#set functioncolor white,red
-#set numbercolor yellow
-#set errorcolor bold,white,red
-
 include /usr/share/nano/*.nanorc
